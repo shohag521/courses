@@ -1,0 +1,40 @@
+body{
+    background-color: #F3F1FF;
+}
+
+.navbar img{
+    width: 40px;
+}
+
+.navbar-nav{
+    margin-left: auto;
+    
+}
+
+.player img{
+    width: 56px;
+}
+
+.player{
+    padding-left: 20px;
+    font-weight: 700;
+}
+
+main{
+    max-width: 870px;
+}
+
+.goodies{
+    display:inline-block;
+}
+
+.middle{
+    max-width: 870px;
+    background-color: #ffff;
+    
+}
+
+.middle img{
+    width: 170px;
+    
+}
