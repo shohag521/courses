@@ -7,8 +7,12 @@ body{
 }
 
 .navbar-nav{
-    margin-left: auto;
+    margin-left:600px;
     
+}
+
+.brand-logo{
+    margin-left: 180px;
 }
 
 .player img{
@@ -24,17 +28,31 @@ main{
     max-width: 870px;
 }
 
-.goodies{
-    display:inline-block;
+.blog img{
+        width: 177px;
 }
 
-.middle{
+.blog{
     max-width: 870px;
-    background-color: #ffff;
-    
+    margin-bottom: 10px;
 }
 
-.middle img{
-    width: 170px;
-    
+.blog h3{
+    margin-left: 15px;
+}
+
+.course{
+    max-width: 870px;
+    padding-bottom: 25px;
+}
+
+.red{
+    color: pink;
+}
+.time{
+    margin-left: 120px;
+    background-color: pink;
+    padding: 5px 16px;
+    border-radius: 10px;
+    font-weight: 800;
 }
